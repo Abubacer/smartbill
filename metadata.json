@@ -1,0 +1,14 @@
+{
+  "name": "حاسبة فواتير الماء والكهرباء الذكية",
+  "description": "تطبيق متطور لحساب فواتير الماء والكهرباء مع ميزة الملء التلقائي باستخدام الذكاء الاصطناعي من خلال تصوير الفاتورة.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered bill extraction",
+    "Water and electricity calculation",
+    "Arabic RTL support",
+    "Export to WhatsApp",
+    "Progressive Web App (PWA) - Android/iOS Installable"
+  ]
+}

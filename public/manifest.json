@@ -1,0 +1,22 @@
+{
+  "name": "حاسبة الفواتير الذكية",
+  "short_name": "الفواتير",
+  "description": "حساب وتوزيع فواتير الماء والكهرباء بالذكاء الاصطناعي",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2933/2933934.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/192/192/192/2933934.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
